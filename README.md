@@ -1,4 +1,8 @@
-### Hi there 👋
+```
+cat nfo
+cypherpunk; cryptographer wannabe
+(r)age19prs4v2f57kxnhsufy0antt6wr9m9g0nmm5mr547s7
+```
 
 <!--
 **1dotd4/1dotd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
