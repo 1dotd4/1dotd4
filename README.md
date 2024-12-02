@@ -16,9 +16,11 @@ This is not my home page, and I will use GitHub just as a mirror.
 
 ### 🌱 A word about software
 
-0. To reduce emissions, reduce computer time, but not just making it fast, like [Sun Systems](https://www.dourish.com/goodies/suns-boot-fast.html).
-1. To reduce computer time, reduce software that follows wrong, incomplete, inappropriate, useless, dangerous specifications, because [Software does not fail](http://www.niquette.com/paul/issue/softwr02.htm).
-2. To reduce software, improve interfaces, documentation, reability. A way to validate is the [clean-room design](https://en.wikipedia.org/wiki/Clean-room_design)
+0. To reduce emissions, reduce computer time, but not like in [Suns Boot Fast](https://www.dourish.com/goodies/suns-boot-fast.html).
+1. To reduce computer time, reduce dangerous software specifications, because [Software does not fail](http://www.niquette.com/paul/issue/softwr02.htm).
+3. To reduce dangerous software specifications, improve interfaces, documentation, reability.
+
+A way to validate is the [clean-room design](https://en.wikipedia.org/wiki/Clean-room_design). Some inspiration may come from your tools, like [Semantic Linefeeds](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 
 Also keep in mind [the four essentials freedoms of software](https://www.gnu.org/philosophy/free-sw.html#four-freedoms) that GitHub does not respect.
 
